@@ -24,9 +24,9 @@
 <!-- Overview Section -->
 <h2 align="left">📋 Overview:</h2>
 - 🔭 I’m currently working on some personal projects. <br /> 
-- 🌱 I’m currently learning Next JS. <br /> 
+- 🌱 I’m currently learning Next JS and C++ for DSA. <br /> 
 - ⚡ Fun fact: I love philosophical discussions. <br />
 - 🚀 I'm focused on improving my skills to secure a job. <br />
 - 🎯 In my job, I aim to continue improving myself. <br />
-- 💻 My ultimate goal is to learn CS fundamentals in future in depth to become a proficient software engineer in the future. <br />
+- 💻 My ultimate goal is to learn CS fundamentals in future in depth to become a proficient software engineer. <br />
 
