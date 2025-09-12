@@ -23,10 +23,12 @@
 
 <!-- Overview Section -->
 <h2 align="left">📋 Overview:</h2>
-- 🔭 I’m currently working on some personal projects. <br /> 
-- 🌱 I’m currently learning Next JS and C++ for DSA. <br /> 
+
+- 🔭 I’m currently working on personal projects and sharpening my coding skills. <br /> 
+- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="20" height="20"/> Go for backend development and Python for DSA. <br /> 
 - ⚡ Fun fact: I love philosophical discussions. <br />
 - 🚀 I'm focused on improving my skills to secure a job. <br />
-- 🎯 In my job, I aim to continue improving myself. <br />
-- 💻 My ultimate goal is to learn CS fundamentals in future in depth to become a proficient software engineer. <br />
+- 🎯 In my job, I aim to continue learning and growing as a developer. <br />
+- 💻 My ultimate goal is to build a strong foundation in computer science fundamentals and become a proficient software engineer. <br />
+
 
